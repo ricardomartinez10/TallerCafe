@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Usuarios>
+  <Usuario clave="12345" correo="carlitoc@hotmail.com" nombre="carlm" user="carlm"/>
+  <Usuario clave="contraseña" correo="dayis34@hotmail.com" nombre="dayana contreras" user="dayis"/>
+  <Usuario clave="1234" correo="juanca@hotmail.com" nombre="juan antonio" user="juanx"/>
+  <Usuario clave="contraseña" correo="e-mail" nombre="Name" user="camilo"/>
+  <Usuario clave="contraseña" correo="e-mail" nombre="Name" user="claudia"/>
+  <Usuario clave="contraseña" correo="e-mail" nombre="Name" user="sardi"/>
+  <Usuario clave="contraseña" correo="e-mail" nombre="Name" user="mario"/>
+  <Usuario clave="contraseña" correo="e-mail" nombre="Name" user="cr"/>
+  <Usuario clave="contraseña" correo="e-mail" nombre="Name" user="Nombre de usuario"/>
+  <Usuario clave="contraseña" correo="e-mail" nombre="Name" user="Nombre d."/>
+  <Usuario clave="contraseña" correo="e-mail" nombre="q" user="q"/>
+  <Usuario clave="a" correo="e-mail" nombre="Name" user="a"/>
+  <Usuario clave="1" correo="riki10@hotmail.com" nombre="ricardo martinez" user="richi"/>
+</Usuarios>
